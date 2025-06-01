@@ -1,4 +1,4 @@
-# 🧠 Advanced Text Analyzer
+# 🧠 Prombt - Advanced Text Analyzer
 
 A lightweight, pluggable module to clean, enhance, and inject context into GPT prompts — ideal for any web interface or chat integration.
 
